@@ -1,0 +1,10 @@
+Bryce 133550
+NicoBelick 40000
+Bryce 27600
+Bryce 22600
+Dummy 10000
+Dummy 10000
+Dummy 10000
+Dummy 10000
+Dummy 10000
+Dummy 10000
